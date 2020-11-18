@@ -9,3 +9,5 @@
 /SlappyBird/Release
 /SlappyBird/Debug
 /.vs
+
+!*.lib
